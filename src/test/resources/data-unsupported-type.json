@@ -1,0 +1,20 @@
+[
+    {
+        "type": "unsupported-type",
+        "name": "thunder 1",
+        "path": "src/test/resources/effect_1.mp3",
+        "filesystem": "local"
+    },
+    {
+        "type": "effect",
+        "name": "thunder 2",
+        "path": "src/test/resources/effect_2.mp3",
+        "filesystem": "local"
+    },
+    {
+        "type": "music",
+        "name": "victory",
+        "path": "src/test/resources/music_1.mp3",
+        "filesystem": "local"
+    }
+]
